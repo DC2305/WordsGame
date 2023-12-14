@@ -2,9 +2,9 @@ namespace WordsGame.Test;
 
 public class WordsGameTest
 {
-    [Fact]
+    /*[Fact]
     public void TestNothing()
     {
         Assert.True(false);
-    }
+    }*/
 }
